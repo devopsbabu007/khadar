@@ -1,0 +1,2 @@
+# khadar
+learn devops
